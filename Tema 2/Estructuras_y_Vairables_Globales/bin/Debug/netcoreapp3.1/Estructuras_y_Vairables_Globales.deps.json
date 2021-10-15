@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Estructuras_y_Vairables_Globales/1.0.0": {
+        "runtime": {
+          "Estructuras_y_Vairables_Globales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estructuras_y_Vairables_Globales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

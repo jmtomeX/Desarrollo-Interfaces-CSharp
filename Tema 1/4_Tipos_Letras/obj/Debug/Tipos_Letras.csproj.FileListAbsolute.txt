@@ -1,0 +1,10 @@
+C:\Users\iremt\source\repos\Tipos_Letras\bin\Debug\Tipos_Letras.exe.config
+C:\Users\iremt\source\repos\Tipos_Letras\bin\Debug\Tipos_Letras.exe
+C:\Users\iremt\source\repos\Tipos_Letras\bin\Debug\Tipos_Letras.pdb
+C:\Users\iremt\source\repos\Tipos_Letras\obj\Debug\Tipos_Letras.csproj.AssemblyReference.cache
+C:\Users\iremt\source\repos\Tipos_Letras\obj\Debug\Tipos_Letras.Form1.resources
+C:\Users\iremt\source\repos\Tipos_Letras\obj\Debug\Tipos_Letras.Properties.Resources.resources
+C:\Users\iremt\source\repos\Tipos_Letras\obj\Debug\Tipos_Letras.csproj.GenerateResource.cache
+C:\Users\iremt\source\repos\Tipos_Letras\obj\Debug\Tipos_Letras.csproj.CoreCompileInputs.cache
+C:\Users\iremt\source\repos\Tipos_Letras\obj\Debug\Tipos_Letras.exe
+C:\Users\iremt\source\repos\Tipos_Letras\obj\Debug\Tipos_Letras.pdb

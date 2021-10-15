@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Editor_Simple_texto/1.0.0": {
+        "runtime": {
+          "Editor_Simple_texto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Editor_Simple_texto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

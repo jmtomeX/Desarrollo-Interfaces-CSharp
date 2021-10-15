@@ -1,0 +1,17 @@
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\bin\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.exe
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\bin\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.deps.json
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\bin\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.runtimeconfig.json
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\bin\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.runtimeconfig.dev.json
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\bin\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.dll
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\bin\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.pdb
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.csproj.AssemblyReference.cache
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Vairables_Globales.Form1.resources
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Vairables_Globales.Form2.resources
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.csproj.GenerateResource.cache
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.AssemblyInfoInputs.cache
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.AssemblyInfo.cs
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.csproj.CoreCompileInputs.cache
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.dll
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.pdb
+C:\Users\iremt\source\repos\Ejercicios 2\Estructuras_y_Vairables_Globales\obj\Debug\netcoreapp3.1\Estructuras_y_Variables_Globales.genruntimeconfig.cache

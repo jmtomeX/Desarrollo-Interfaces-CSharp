@@ -1,0 +1,16 @@
+C:\Users\2daw3\source\repos\TeclaIntro\bin\Debug\netcoreapp3.1\TeclaIntro.exe
+C:\Users\2daw3\source\repos\TeclaIntro\bin\Debug\netcoreapp3.1\TeclaIntro.deps.json
+C:\Users\2daw3\source\repos\TeclaIntro\bin\Debug\netcoreapp3.1\TeclaIntro.runtimeconfig.json
+C:\Users\2daw3\source\repos\TeclaIntro\bin\Debug\netcoreapp3.1\TeclaIntro.runtimeconfig.dev.json
+C:\Users\2daw3\source\repos\TeclaIntro\bin\Debug\netcoreapp3.1\TeclaIntro.dll
+C:\Users\2daw3\source\repos\TeclaIntro\bin\Debug\netcoreapp3.1\TeclaIntro.pdb
+C:\Users\2daw3\source\repos\TeclaIntro\obj\Debug\netcoreapp3.1\TeclaIntro.csproj.AssemblyReference.cache
+C:\Users\2daw3\source\repos\TeclaIntro\obj\Debug\netcoreapp3.1\TeclaIntro.Form1.resources
+C:\Users\2daw3\source\repos\TeclaIntro\obj\Debug\netcoreapp3.1\TeclaIntro.csproj.GenerateResource.cache
+C:\Users\2daw3\source\repos\TeclaIntro\obj\Debug\netcoreapp3.1\TeclaIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2daw3\source\repos\TeclaIntro\obj\Debug\netcoreapp3.1\TeclaIntro.AssemblyInfoInputs.cache
+C:\Users\2daw3\source\repos\TeclaIntro\obj\Debug\netcoreapp3.1\TeclaIntro.AssemblyInfo.cs
+C:\Users\2daw3\source\repos\TeclaIntro\obj\Debug\netcoreapp3.1\TeclaIntro.csproj.CoreCompileInputs.cache
+C:\Users\2daw3\source\repos\TeclaIntro\obj\Debug\netcoreapp3.1\TeclaIntro.dll
+C:\Users\2daw3\source\repos\TeclaIntro\obj\Debug\netcoreapp3.1\TeclaIntro.pdb
+C:\Users\2daw3\source\repos\TeclaIntro\obj\Debug\netcoreapp3.1\TeclaIntro.genruntimeconfig.cache

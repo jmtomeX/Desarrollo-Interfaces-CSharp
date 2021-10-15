@@ -1,0 +1,16 @@
+C:\Users\iremt\source\repos\Login-Usuario\bin\Debug\netcoreapp3.1\Login-Usuario.exe
+C:\Users\iremt\source\repos\Login-Usuario\bin\Debug\netcoreapp3.1\Login-Usuario.deps.json
+C:\Users\iremt\source\repos\Login-Usuario\bin\Debug\netcoreapp3.1\Login-Usuario.runtimeconfig.json
+C:\Users\iremt\source\repos\Login-Usuario\bin\Debug\netcoreapp3.1\Login-Usuario.runtimeconfig.dev.json
+C:\Users\iremt\source\repos\Login-Usuario\bin\Debug\netcoreapp3.1\Login-Usuario.dll
+C:\Users\iremt\source\repos\Login-Usuario\bin\Debug\netcoreapp3.1\Login-Usuario.pdb
+C:\Users\iremt\source\repos\Login-Usuario\obj\Debug\netcoreapp3.1\Login-Usuario.csproj.AssemblyReference.cache
+C:\Users\iremt\source\repos\Login-Usuario\obj\Debug\netcoreapp3.1\Login_Usuario.Form1.resources
+C:\Users\iremt\source\repos\Login-Usuario\obj\Debug\netcoreapp3.1\Login-Usuario.csproj.GenerateResource.cache
+C:\Users\iremt\source\repos\Login-Usuario\obj\Debug\netcoreapp3.1\Login-Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremt\source\repos\Login-Usuario\obj\Debug\netcoreapp3.1\Login-Usuario.AssemblyInfoInputs.cache
+C:\Users\iremt\source\repos\Login-Usuario\obj\Debug\netcoreapp3.1\Login-Usuario.AssemblyInfo.cs
+C:\Users\iremt\source\repos\Login-Usuario\obj\Debug\netcoreapp3.1\Login-Usuario.csproj.CoreCompileInputs.cache
+C:\Users\iremt\source\repos\Login-Usuario\obj\Debug\netcoreapp3.1\Login-Usuario.dll
+C:\Users\iremt\source\repos\Login-Usuario\obj\Debug\netcoreapp3.1\Login-Usuario.pdb
+C:\Users\iremt\source\repos\Login-Usuario\obj\Debug\netcoreapp3.1\Login-Usuario.genruntimeconfig.cache

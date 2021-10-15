@@ -1,0 +1,34 @@
+C:\Users\iremt\source\repos\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.exe
+C:\Users\iremt\source\repos\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.deps.json
+C:\Users\iremt\source\repos\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.runtimeconfig.json
+C:\Users\iremt\source\repos\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.runtimeconfig.dev.json
+C:\Users\iremt\source\repos\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.dll
+C:\Users\iremt\source\repos\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.pdb
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.csproj.AssemblyReference.cache
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.Form1.resources
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.csproj.GenerateResource.cache
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.AssemblyInfoInputs.cache
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.AssemblyInfo.cs
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.csproj.CoreCompileInputs.cache
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.dll
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.pdb
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.genruntimeconfig.cache
+C:\Users\iremt\source\repos\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.Properties.Resources.resources
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.exe
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.deps.json
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.runtimeconfig.json
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.runtimeconfig.dev.json
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.dll
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\bin\Debug\netcoreapp3.1\Editor_Simple_texto.pdb
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.csproj.AssemblyReference.cache
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.Form1.resources
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.Properties.Resources.resources
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.csproj.GenerateResource.cache
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.AssemblyInfoInputs.cache
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.AssemblyInfo.cs
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.csproj.CoreCompileInputs.cache
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.dll
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.pdb
+C:\Users\iremt\source\repos\Ejercicios 2\Editor_Simple_texto\obj\Debug\netcoreapp3.1\Editor_Simple_texto.genruntimeconfig.cache

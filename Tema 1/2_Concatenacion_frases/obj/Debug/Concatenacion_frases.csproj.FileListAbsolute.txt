@@ -1,0 +1,10 @@
+C:\Users\iremt\source\repos\Concatenacion_frases\bin\Debug\Concatenacion_frases.exe.config
+C:\Users\iremt\source\repos\Concatenacion_frases\bin\Debug\Concatenacion_frases.exe
+C:\Users\iremt\source\repos\Concatenacion_frases\bin\Debug\Concatenacion_frases.pdb
+C:\Users\iremt\source\repos\Concatenacion_frases\obj\Debug\Concatenacion_frases.csproj.AssemblyReference.cache
+C:\Users\iremt\source\repos\Concatenacion_frases\obj\Debug\Concatenacion_frases.Form1.resources
+C:\Users\iremt\source\repos\Concatenacion_frases\obj\Debug\Concatenacion_frases.Properties.Resources.resources
+C:\Users\iremt\source\repos\Concatenacion_frases\obj\Debug\Concatenacion_frases.csproj.GenerateResource.cache
+C:\Users\iremt\source\repos\Concatenacion_frases\obj\Debug\Concatenacion_frases.csproj.CoreCompileInputs.cache
+C:\Users\iremt\source\repos\Concatenacion_frases\obj\Debug\Concatenacion_frases.exe
+C:\Users\iremt\source\repos\Concatenacion_frases\obj\Debug\Concatenacion_frases.pdb

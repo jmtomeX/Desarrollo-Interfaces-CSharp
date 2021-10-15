@@ -1,0 +1,54 @@
+c:\users\erabiltzailea\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\erabiltzailea\Documents\Visual Studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbprojResolveAssemblyReference.cache
+C:\Users\erabiltzailea\Documents\Visual Studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\MainWindow.baml
+C:\Users\erabiltzailea\Documents\Visual Studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\MainWindow.g.vb
+C:\Users\erabiltzailea\Documents\Visual Studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Application.g.vb
+C:\Users\erabiltzailea\Documents\Visual Studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo_MarkupCompile.cache
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\bin\Debug\Ejemplo.xml
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbproj.AssemblyReference.cache
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\MainWindow.baml
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\MainWindow.g.vb
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\Application.g.vb
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\Ejemplo_MarkupCompile.cache
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\Ejemplo.g.resources
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Resources.resources
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbproj.GenerateResource.cache
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbproj.CoreCompileInputs.cache
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\Ejemplo.xml
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\2019-2020\DEIN\DEIN 2017-18\UD_3-Creación de componentes visuales\practicaXAML\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\bin\Debug\Ejemplo.exe.config
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\bin\Debug\Ejemplo.exe
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\bin\Debug\Ejemplo.xml
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.vbproj.AssemblyReference.cache
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\MainWindow.baml
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\MainWindow.g.vb
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Application.g.vb
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo_MarkupCompile.cache
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.g.resources
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.Resources.resources
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.vbproj.GenerateResource.cache
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.vbproj.CoreCompileInputs.cache
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.exe
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.xml
+D:\PLAIAUNDI\00-TEMARIOAK\2DAM3\Desarrollo de Interfaces\Tema3-Creacion de componentes visuales\EJERCICIOS\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\bin\Debug\Ejemplo.xml
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.vbproj.AssemblyReference.cache
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\MainWindow.baml
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\MainWindow.g.vb
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Application.g.vb
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo_MarkupCompile.cache
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.g.resources
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.Resources.resources
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.vbproj.GenerateResource.cache
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.vbproj.CoreCompileInputs.cache
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.xml
+C:\Users\2daw3\Downloads\Ejemplo(Codigo plantilla)\Ejemplo\obj\Debug\Ejemplo.pdb

@@ -1,0 +1,21 @@
+C:\Users\2daw3\source\repos\FuncionesDeFechas\bin\Debug\FuncionesDeFechas.exe.config
+C:\Users\2daw3\source\repos\FuncionesDeFechas\bin\Debug\FuncionesDeFechas.exe
+C:\Users\2daw3\source\repos\FuncionesDeFechas\bin\Debug\FuncionesDeFechas.pdb
+C:\Users\2daw3\source\repos\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.csproj.AssemblyReference.cache
+C:\Users\2daw3\source\repos\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.Form1.resources
+C:\Users\2daw3\source\repos\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.Properties.Resources.resources
+C:\Users\2daw3\source\repos\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.csproj.GenerateResource.cache
+C:\Users\2daw3\source\repos\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.csproj.CoreCompileInputs.cache
+C:\Users\2daw3\source\repos\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.exe
+C:\Users\2daw3\source\repos\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.pdb
+C:\Users\2daw3\source\repos\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.Form2.resources
+C:\Users\iremt\source\repos\Ejercicios 2\FuncionesDeFechas\bin\Debug\FuncionesDeFechas.exe.config
+C:\Users\iremt\source\repos\Ejercicios 2\FuncionesDeFechas\bin\Debug\FuncionesDeFechas.exe
+C:\Users\iremt\source\repos\Ejercicios 2\FuncionesDeFechas\bin\Debug\FuncionesDeFechas.pdb
+C:\Users\iremt\source\repos\Ejercicios 2\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.csproj.AssemblyReference.cache
+C:\Users\iremt\source\repos\Ejercicios 2\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.form1.resources
+C:\Users\iremt\source\repos\Ejercicios 2\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.Properties.Resources.resources
+C:\Users\iremt\source\repos\Ejercicios 2\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.csproj.GenerateResource.cache
+C:\Users\iremt\source\repos\Ejercicios 2\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.csproj.CoreCompileInputs.cache
+C:\Users\iremt\source\repos\Ejercicios 2\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.exe
+C:\Users\iremt\source\repos\Ejercicios 2\FuncionesDeFechas\obj\Debug\FuncionesDeFechas.pdb

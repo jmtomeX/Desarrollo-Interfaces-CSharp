@@ -1,0 +1,16 @@
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\bin\Debug\netcoreapp3.1\ListBox.exe
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\bin\Debug\netcoreapp3.1\ListBox.deps.json
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\bin\Debug\netcoreapp3.1\ListBox.runtimeconfig.json
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\bin\Debug\netcoreapp3.1\ListBox.runtimeconfig.dev.json
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\bin\Debug\netcoreapp3.1\ListBox.dll
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\bin\Debug\netcoreapp3.1\ListBox.pdb
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\obj\Debug\netcoreapp3.1\ListBox.csproj.AssemblyReference.cache
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\obj\Debug\netcoreapp3.1\ListBox.Form1.resources
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\obj\Debug\netcoreapp3.1\ListBox.csproj.GenerateResource.cache
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\obj\Debug\netcoreapp3.1\ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\obj\Debug\netcoreapp3.1\ListBox.AssemblyInfoInputs.cache
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\obj\Debug\netcoreapp3.1\ListBox.AssemblyInfo.cs
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\obj\Debug\netcoreapp3.1\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\obj\Debug\netcoreapp3.1\ListBox.dll
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\obj\Debug\netcoreapp3.1\ListBox.pdb
+C:\Users\iremt\source\repos\Ejercicios 2\ListBox\obj\Debug\netcoreapp3.1\ListBox.genruntimeconfig.cache
